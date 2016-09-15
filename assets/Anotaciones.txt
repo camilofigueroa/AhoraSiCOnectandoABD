@@ -1,0 +1,30 @@
+
+
+
+
+https://technet.microsoft.com/es-es/library/ms165702(v=sql.105).aspx
+
+
+SQLServer con C#
+https://www.youtube.com/watch?v=Qhx4Wd9W_iA
+
+
+//Entrar al cmdsql prompt, enter to cmdsql prompt
+C:\>cmdsql.exe
+
+//Aparecerá, you can see
+1>
+
+//Crear la base de datos, create data base
+CREATE DATABASE bd_prueba_sqlserver
+go
+
+
+//Usar la base de datos, use data base
+USE bd_prueba_sqlserver
+go
+
+//Describir tablas, describe table
+exec sp_columns tabla
+go
+
