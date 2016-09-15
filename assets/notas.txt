@@ -1,0 +1,5 @@
+
+
+Aquí se colocan todos los archivos que indican cómo se creó la base de datos desde sqlcmd.exe
+
+Here i put all files to show how to the data base is created using sqlcmd.exe
